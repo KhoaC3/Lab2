@@ -8,5 +8,6 @@ namespace Lab2
 {
     class Block
     {
+        int hasdmnasbd;
     }
 }
