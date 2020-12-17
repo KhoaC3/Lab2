@@ -10,7 +10,7 @@ namespace Lab2
     {
         public void test()
         {
-            Console.WriteLine('Test');
+            var a = 1;
         }
     }
 }
