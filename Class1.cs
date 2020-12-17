@@ -8,5 +8,9 @@ namespace Lab2
 {
     class Class1
     {
+        public void test()
+        {
+            Console.WriteLine('Test');
+        }
     }
 }
