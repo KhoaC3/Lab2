@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab2
 {
-    class Class1
+    class Block
     {
-        public void test()
-        {
-            Console.WriteLine('Test');
-        }
     }
 }
